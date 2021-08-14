@@ -1,0 +1,20 @@
+.whitepostarea{
+    top: 131px;
+    left: 183px;
+    width: 1134px;
+    height: 1022px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 20px;
+    opacity: 0.7;
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);   
+}
+.peopleimage{
+    top: 184px;
+    left: 283px;
+    width: 901px;
+    height: 226px;
+    background: #FFFDFD 0% 0% no-repeat padding-box;
+    border-radius: 20px;
+    opacity: 1;
+}

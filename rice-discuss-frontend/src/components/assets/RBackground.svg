@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa99c"/>
+      <stop offset="1" stop-color="#ffc3ba"/>
+    </linearGradient>
+    <filter id="Path_293" x="39.202" y="724" width="215.986" height="237.899" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9ccdff"/>
+      <stop offset="1" stop-color="#baefff"/>
+    </linearGradient>
+    <filter id="Path_294" x="1161.014" y="-6.404" width="581.318" height="584.422" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcf59d"/>
+      <stop offset="1" stop-color="#ffcfa5"/>
+    </linearGradient>
+    <filter id="Path_292" x="1171.476" y="858.921" width="281.927" height="306.264" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_9">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_9" data-name="Web 1920 – 9" clip-path="url(#clip-Web_1920_9)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_276" data-name="Rectangle 276" width="1920" height="1086" transform="translate(0 -6)" fill="#f4efef"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_293)">
+      <path id="Path_293-2" data-name="Path 293" d="M70.366,0a79.823,79.823,0,0,1,79.823,79.823c0,44.085-30.312,140.9-91.345,140.071S-73.94,163.148-38.292,102.614,26.281,0,70.366,0Z" transform="translate(96 730)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_294)">
+      <path id="Path_294-2" data-name="Path 294" d="M178.4,0A152.8,152.8,0,0,1,331.2,152.8c0,84.39-58.025,269.722-174.859,268.133S-97.842,312.308-29.6,196.43,94.009,0,178.4,0Z" transform="translate(1697.81 344.4) rotate(138)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_292)">
+      <path id="Path_292-2" data-name="Path 292" d="M123.017-3.314C232.51-60.445,233.774,51.762,233.774,119.7S190.957,242.719,123.017,242.719A123.017,123.017,0,0,1,0,119.7C0,51.762,13.523,53.817,123.017-3.314Z" transform="translate(1210.06 883.79) rotate(7)" opacity="0.996" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>
